@@ -33,7 +33,7 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "keycloak-auth-utils": "3.0.0"
+    "keycloak-auth-utils": "git+https://github.com/annie-amplify/keycloak-nodejs-auth-utils.git#KEYCLOAK-4750"
   },
   "bundledDependencies": [
     "keycloak-auth-utils"
